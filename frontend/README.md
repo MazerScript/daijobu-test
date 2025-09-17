@@ -1,6 +1,6 @@
 Le projet a été concu avec :
-- react coté frontend
-- express (Node) coté backend
+- React (Vite) coté frontend
+- Express (Node) coté backend
 
 pour lancé le server : 
 - cd backend
